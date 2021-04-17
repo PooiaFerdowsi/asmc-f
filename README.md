@@ -3,9 +3,7 @@ asmc with example
 
 it's is am.c but contain one example
 
-the guide is here : (link)[https://github.com/PooiaFerdowsi/asmc]
-
-[link](https://github.com/PooiaFerdowsi/asmc)
+the guide is here : [link](https://github.com/PooiaFerdowsi/asmc)
 
 running the example :
 
